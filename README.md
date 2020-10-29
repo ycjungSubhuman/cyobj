@@ -2,9 +2,9 @@
 
 A python library for Wavefront .OBJ reading/writing
 
-Why did I write yet another .obj reader/writer?
+Why did we write yet another .obj reader/writer?
 
-Many python libraries for .obj does not support 
+Many python libraries for .obj do not support 
 
 * Texture coodinates
 * Vertex normals
@@ -12,7 +12,7 @@ Many python libraries for .obj does not support
 * Automatic generation of .mtl file when texture map exists
 * Fast read/write
 
-Therefore I wrote one myself that support them all.
+Therefore I wrote one ourselves that supports them all.
 
 ## Requirement
 
