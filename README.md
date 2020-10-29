@@ -12,7 +12,7 @@ Many python libraries for .obj do not support
 * Automatic generation of .mtl file when texture map exists
 * Fast read/write
 
-Therefore I wrote one ourselves that supports them all.
+Therefore we wrote one ourselves that supports them all.
 
 ## Requirement
 
