@@ -1,5 +1,7 @@
 # Cyobj
 
+[![PyPI version](https://badge.fury.io/py/cyobj.svg)](https://badge.fury.io/py/cyobj)
+
 A python library for Wavefront .OBJ reading/writing
 
 Why did we write yet another .obj reader/writer?
@@ -20,6 +22,12 @@ Therefore we wrote one ourselves that supports them all.
 * Cython
 
 ## Install
+
+### From PyPI
+
+`pip install cyobj`
+
+### Build yourself
 
 `python setup.py build && python setup.py install`
 
