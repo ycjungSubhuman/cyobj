@@ -49,4 +49,7 @@ Writes an .obj file with V attributes
 * cyobj: 252.14886665344238 ms
 * igl(C++): 362.7943277359009 ms
 
+## Note
 
+This library does not fully support polygon meshes. It only supports fixed quad and triangles.
+When mixed quad and triangles are detected, F array has 4 columns, and the last column is the copy of the previous column.
