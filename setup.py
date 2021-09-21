@@ -4,7 +4,7 @@ from Cython.Build import cythonize
 setup(
     name='cyobj',
     description='A fast and Wavefront .OBJ reader/writer',
-    version="0.2.0",
+    version="0.2.1",
     author='Yucheol Jung',
     author_email='ycjung@postech.ac.kr',
     packages=['cyobj'],
