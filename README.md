@@ -39,15 +39,15 @@ Compared to libigl-python-binding,
 
 Reads a large .obj (Armadillo) file with V/VT/VN attributes
 
-* cyobj: 465.68751335144043 ms
-* igl(C++): 1043.8106060028076 ms
+* cyobj: around 465 ms
+* igl(C++): round 1043 ms
 
 ### Writing
 
 Writes an .obj file with V attributes
 
-* cyobj: 252.14886665344238 ms
-* igl(C++): 362.7943277359009 ms
+* cyobj: around 252 ms
+* igl(C++): around 362 ms
 
 ## Note
 
